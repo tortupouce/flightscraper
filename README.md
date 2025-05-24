@@ -57,7 +57,7 @@ AMADEUS_API_SECRET = "your_api_secret_here"
 Run the script from your terminal:
 
 ```bash
-python flight_search_tool.py
+python flightscraper.py
 ```
 
 You will be prompted to enter:
