@@ -150,5 +150,3 @@ You may use, modify, and share the code for **personal and open-source purposes 
 ## ✉️ Author
 
 Made by me (tortupouce)
-
-```
